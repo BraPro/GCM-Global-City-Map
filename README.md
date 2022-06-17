@@ -1,5 +1,5 @@
 # GCM-Global-City-Map
-Semester Project / ORT Braude College / Date: 7/2019
+Semester Project / ORT Braude College / Date: 7/2019\
 A semester project with 4 additional team members, Included a requirements analysis, build UML diagrams design, prototype, and fully implement the code behind it.
 
 Highlights of the project:
